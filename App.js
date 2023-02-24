@@ -1,8 +1,8 @@
 
 import{Fragment} from 'react';
-import { Header } from './components/Layout/Header';
+import { Header } from './Components/Layout/Header';
 
-function app()
+function App()
 {
   return (
     <Fragment>
@@ -10,4 +10,4 @@ function app()
     </Fragment>
   );
 }
-export default app;
+export default App;
